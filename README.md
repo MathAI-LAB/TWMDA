@@ -1,5 +1,4 @@
 # TWMDA
-TWMDA
 This is the pytorch demo code for A Two-Way alignment approach for unsupervised multi-Source domain adaptation， (TWMDA) (Pattern Recognition, 2022). 
 
 
