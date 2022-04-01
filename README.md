@@ -3,7 +3,7 @@ TWMDA
 This is the pytorch demo code for A Two-Way alignment approach for unsupervised multi-Source domain adaptation， (TWMDA) (Pattern Recognition, 2022). 
 
 
-Requirements:
+## Requirements:
 
 python=3.7
 
@@ -20,7 +20,7 @@ numpy=1.20.3
 scipy=1.7.1
 
 
-Files structures:
+## Files structures:
 
 ├─DomainNet1/
 
